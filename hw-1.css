@@ -1,0 +1,19 @@
+.general{
+    width: 500px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+h1{
+    text-align: center;
+    font-size: 29px;
+}
+
+p, div{
+    margin-left: 20px;
+   }
+
+.foto{
+    margin-left: 150px;
+}
+
